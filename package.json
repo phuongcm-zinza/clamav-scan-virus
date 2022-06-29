@@ -1,0 +1,9 @@
+{
+  "name": "aws-lambda-scan-virus-layer",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  }
+}
